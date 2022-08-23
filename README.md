@@ -18,4 +18,4 @@ This was implemented from scratch for the completion of the [Convolutional Neura
 
 
 **Language used :** Python </br>
-**Development Tools :**
+**Development Tools :** Jupyter Notebook
