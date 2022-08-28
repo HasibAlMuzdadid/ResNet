@@ -20,3 +20,6 @@ This was implemented from scratch for the completion of the [Convolutional Neura
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
 **Platform :** [Google Colab](https://colab.research.google.com/)
+
+
+**Accomplishments :**
