@@ -26,4 +26,4 @@ This was implemented from scratch for the completion of the [Convolutional Neura
 Course  | Achievement
 :-------------: | :-------------:
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JXTRSEUXQBKU)
-[Deep Learning Specialization]() | [Certificate]()
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | [Certificate]()
