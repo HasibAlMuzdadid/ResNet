@@ -10,7 +10,7 @@ Hasib Al Muzdadid </br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio:  https://hasibalmuzdadid.github.io  </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+
 
 ## Project Description :
 When we increase the number of layers, there is a common problem in deep learning associated with that called the Vanishing/Exploding gradient. This causes the gradient to become 0 or too large. Thus when we increases number of layers, the training and test error rate also increases. In order to solve the problem, this architecture introduced the concept called Residual Blocks. In this network, we use a technique called skip connections. The skip connection connects activations of a layer to further layers by skipping some layers in between. This forms a residual block. Resnets are made by stacking these residual blocks together. 
